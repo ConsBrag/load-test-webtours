@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\User\Documents\VuGen\Scripts\Familiarization with the receipt
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\user\documents\vugen\scripts\familiarization with the receipt\\logfile.log
+c:\users\user\documents\vugen\scripts\familiarization with the receipt\\combined_Familiarization with the receipt.c
+c:\users\user\documents\vugen\scripts\familiarization with the receipt\\pre_cci.c

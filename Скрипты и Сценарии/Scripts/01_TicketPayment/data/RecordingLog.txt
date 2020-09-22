@@ -1,0 +1,371 @@
+[API Trapper      (31b8:303c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      ( bf8:3108)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      ( 4b8:283c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( 4b8:104c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 4b8:104c)] Load Network Traffic Analyzers:
+[Network Analyzer ( 4b8:104c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 4b8:104c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 4b8:104c)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 4b8:104c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 4b8:104c)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 4b8:104c)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 4b8:104c)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 4b8: 5f8)] Address lookup for Kastik = 192.168.43.212
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.195:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer ( 4b8:2fe0)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer ( 4b8:2fe0)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Web Request      ( 4b8: 5f8)] "GET /safebrowsing/csd/client_model_v5_variation_0.pb"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Client -> Server @ : 368 bytes (SSL)(Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  2) Client -> Server @ : 528 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.163:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  2) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/header.html"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  2) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  2) Server -> Client : 1007 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8:22b8)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1256 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.170:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 656 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.170:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( 4b8: ed8)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8:22b8)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  2) Client -> Server @ : 576 bytes (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=85"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  3) Client -> Server @ : 449 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  1) Server -> Client : 370 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: ed8)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  4) Client -> Server @ : 467 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  5) Client -> Server @ : 755 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  4) Server -> Client : 899 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "POST /v1/issuetoken"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  5) Client -> Server @ : 653 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 4b8:20c0)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  3) Server -> Client : 379 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  2) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  5) Server -> Client : 1256 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  5) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  2) Connection Terminated (by Server)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:20c0)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 4b8: 5f8)] "POST /v1/issuetoken"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  6) Client -> Server @ : 1151 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  6) Server -> Client : 1109 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  6) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  7) Client -> Server @ : 617 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  7) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  7) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  7) Connection Terminated (by Server)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/home.html"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  8) Client -> Server @ : 613 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  8) Server -> Client : 1660 bytes  (Service=HTTP)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  8) Connection Terminated (by Server)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  9) Client -> Server @ : 468 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.202:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  9) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 173.194.222.189:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( 4b8:2c34)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( 4b8:2c34)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4b8:1770)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8:1770)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 4b8: 5f8)] "GET /v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRIfCU35IjnBRbgwEgkN541ADhIAGgASCQ3OQUx6EgAaAA==?alt=proto"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 10) Client -> Server @ : 539 bytes (SSL)(Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /client-channel/channel/cbp?ctype=memento&VER=8&MODE=init&zx=wm7l0deu631&t=1"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 11) Client -> Server @ : 1861 bytes (SSL)(Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 12) Client -> Server @ : 499 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 12) Server -> Client : 977 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /favicon.ico"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 12) Client -> Server @ : 468 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 12) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 10) Server -> Client : 665 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 11) Server -> Client : 1011 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 11) Server -> Client : 141 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 173.194.73.188:5228   (Service=)  (Sid= 13)  PROXIED!
+[API Trapper      (2714:3310)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer ( 4b8: a58)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8: a58)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 13) Client -> Server @ : 155 bytes (SSL)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 13) Server -> Client : 1 bytes (SSL)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 13) Server -> Client : 66 bytes (SSL)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 13) Server -> Client : 12 bytes (SSL)
+[Network Analyzer ( 4b8: 5f8)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 12) Connection Terminated (by Server)
+[API Trapper      ( 354:213c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Web Request      ( 4b8: 5f8)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Client -> Server @ : 871 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.163:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:3248)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8:3248)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Client -> Server @ : 722 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 15) Client -> Server @ : 1105 bytes (SSL)(Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "POST /service/update2/json?cup2key=10:1290812442&cup2hreq=c4f45c9e5a06238bcca36341b6e3b9493e3cc7c2aea9c84526bc05ec87076037"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 15) Client -> Server @ : 5475 bytes (SSL)(Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 16) Client -> Server @ : 717 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 16) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 16) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 15) Server -> Client : 1318 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 15) Server -> Client : 905 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 15) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 16) Client -> Server @ : 617 bytes (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Client -> Server @ : 619 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 16) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Server -> Client : 1030 bytes  (Service=HTTP)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 14) Connection Terminated (by Server)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 17) Client -> Server @ : 617 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 17) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Client -> Server @ : 617 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Server -> Client : 1049 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Client -> Server @ : 756 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Client -> Server @ : 739 bytes (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 17) Client -> Server @ : 740 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 17) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 17) Server -> Client : 281 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 17) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 17) Connection Terminated (by Server)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 19) Client -> Server @ : 623 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 19) Server -> Client : 1024 bytes  (Service=HTTP)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 19) Connection Terminated (by Server)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.195:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Web Request      ( 4b8: 5f8)] "GET /v1/pages/Chc2LjEuMTcxNS4xNDQyL2VuIChHR0xMKRJACUFCU6JtyxUKEgkNVGIprRIAGgASCQ17ncSlEgAaABIJDR87OYUSABoAEgkN2oWZYRIAGgASCQ2pjkq9EgAaAA==?alt=proto"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 10) Client -> Server @ : 583 bytes (SSL)(Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Client -> Server @ : 617 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Client -> Server @ : 625 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 10) Server -> Client : 688 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8:2c04)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( 4b8:2c04)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Web Request      ( 4b8: 5f8)] "GET /docs/common/netcheck.gif?zx=4rtxy8xdee47"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 20) Client -> Server @ : 659 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.195:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 20) Server -> Client : 620 bytes (SSL) (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /docs/common/netcheck.gif?zx=56uvt0r5q32i"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 20) Client -> Server @ : 659 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 4b8:3794)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8:3794)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 20) Server -> Client : 620 bytes (SSL) (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Client -> Server @ : 1123 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Server -> Client : 2703 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Client -> Server @ : 1016 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Server -> Client : 2965 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 21) Connection Terminated (by Server)
+[API Trapper      (3558: 3c0)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Web Request      ( 4b8: 5f8)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 22) Client -> Server @ : 1195 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 22) Server -> Client : 2852 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 22) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 22) Client -> Server @ : 588 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 22) Server -> Client : 1103 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 22) Connection Terminated (by Server)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    ( 4b8:104c)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 24) Client -> Server @ : 733 bytes (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 24) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 24) Client -> Server @ : 614 bytes (Service=HTTP)
+[Web Request      ( 4b8: 5f8)] "GET /WebTours/home.html"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 25) Client -> Server @ : 710 bytes (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 25) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 24) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( 4b8:104c)] Address lookup for Kastik = 192.168.43.212
+[Network Analyzer ( 4b8:104c)] Request Connection: Remote Server @ 216.58.209.202:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( 4b8:2338)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer ( 4b8:2338)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      ( 4b8: 5f8)] "GET /v4/threatListUpdates:fetch?$req=Ch0KDGdvb2dsZWNocm9tZRINODUuMC40MTgzLjEwMhopCAUQARobCg0IBRAGGAEiAzAwMTABENClCRoCGAfn0WG6IgQgASACKAEaKQgBEAEaGwoNCAEQBhgBIgMwMDEwARCr8AcaAhgHG5j_7iIEIAEgAigBGikIAxABGhsKDQgDEAYYASIDMDAxMAEQxPsHGgIYB89gOMMiBCABIAIoARopCAcQARobCg0IBxAGGAEiAzAwMTABENGRCBoCGAd-2dMVIgQgASACKAEaJwgBEAEaGQoNCAEQBhgBIgMwMDEwAxAUGgIYBzGxyUgiBCABIAIoAxooCAEQCBoaCg0IARAIGAEiAzAwMTAEEOsbGgIYByhoJ4YiBCABIAIoBBonCAkQARoZCg0ICRAGGAEiAzAwMTAGEAMaAhgHfGc_tyIEIAEgAigGGigIDxABGhoKDQgPEAYYASIDMDAxMAEQs0EaAhgH_MFbSCIEIAEgAigBGicIChAIGhkKDQgKEAgYASIDMDAxMAEQBhoCGAe2bnt9IgQgASACKAEaJwgJEAEaGQoNCAkQBhgBIgMwMDEwARAdGgIYB1OJbn0iBCABIAIoARooCAgQARoaCg0ICBAGGAEiAzAwMTABEOEJGgIYBzZNFiciBCABIAIoARooCA0QARoaCg0IDRAGGAEiAzAwMTABEMp7GgIYB68ZC1IiBCABIAIoARopCA4QARobCg0IDhAGGAEiAzAwMTABEOWjBBoCGAfCS16JIgQgASACKAEaKAgQEAEaGgoNCBAQBhgBIgMwMDEwARC9BRoCGAefh0fLIgQgASACKAEiAggB&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 26) Client -> Server @ : 1277 bytes (SSL)(Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 26) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 26) Server -> Client : 32 bytes (SSL) (Service=HTTP)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 25) Connection Terminated (by Server)
+[Network Analyzer ( 4b8: 5f8)]   (Sid: 24) Connection Terminated (by Server)

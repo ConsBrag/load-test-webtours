@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Sep 2020 21:47:09 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: 5s
+Set-Cookie: MTUserInfo=firstName&Gmyrev&address2&tarkovsky&username&acc00700&hash&48&lastName&Nefyod&address1&pasternak&creditCard&&expDate&; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

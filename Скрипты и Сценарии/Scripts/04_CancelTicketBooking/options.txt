@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\User\Documents\VuGen\Scripts\04_CancelTicketBooking
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\user\documents\vugen\scripts\04_cancelticketbooking\\logfile.log
+c:\users\user\documents\vugen\scripts\04_cancelticketbooking\\combined_04_CancelTicketBooking.c
+c:\users\user\documents\vugen\scripts\04_cancelticketbooking\\pre_cci.c

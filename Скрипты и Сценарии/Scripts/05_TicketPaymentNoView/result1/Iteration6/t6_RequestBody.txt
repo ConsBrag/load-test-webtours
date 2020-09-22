@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=San+Francisco&departDate=09%2F24%2F2020&arrive=Seattle&returnDate=09%"
+"2F30%2F2020&numPassengers=3&seatPref=Window&seatType=Business&findFlights.x=63&findFlights.y=1"
+"2&.cgifields=roundtrip&.cgifields=seatType&.cgifields=seatPref"

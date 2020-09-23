@@ -18,9 +18,9 @@ DFERebrandFlag=Done
 ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
-LastCodeGenerationVer=2020.0.0.0
+LastCodeGenerationVer=
 DisableRegenerate=0
-Encoding=ANSI
+Encoding=
 Description=
 ScriptLocale=ru-RU
 [Actions]
@@ -41,7 +41,7 @@ Action=1
 vuser_end=0
 [Recorded Actions]
 vuser_init=0
-Action=1
+Action=0
 vuser_end=0
 [Replayed Actions]
 vuser_init=1

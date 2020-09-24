@@ -23,7 +23,7 @@ Project("2384CD10-8F17-477C-8320-AE6F15E8B6EF") = "07_SearchTicketNoSelect", "..
 		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXFVzZXJcRG9jdW1lbnRzXFZ1R2VuXFNjcmlwdHNcMDdfU2VhcmNoVGlja2V0Tm9TZWxlY3RcMDdfU2VhcmNoVGlja2V0Tm9TZWxlY3QudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPjA3X1NlYXJjaFRpY2tldE5vU2VsZWN0LnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjAtMDktMjRUMDM6MTI6MDkuMTI5NjQwOCswNTowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
 	EndProjectSection
 	ProjectSection(ExpandInVugen) = Data
-		Value = False
+		Value = True
 	EndProjectSection
 EndProject
 Project("2E0991B8-1EA9-4A58-A6DC-F9A14BC57185") = "04_CancelTicketBooking", "..\..\..\..\Users\User\Documents\VuGen\Scripts\04_CancelTicketBooking\04_CancelTicketBooking.usr", "2E0991B8-1EA9-4A58-A6DC-F9A14BC57185"
@@ -31,7 +31,7 @@ Project("2E0991B8-1EA9-4A58-A6DC-F9A14BC57185") = "04_CancelTicketBooking", "..\
 		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXFVzZXJcRG9jdW1lbnRzXFZ1R2VuXFNjcmlwdHNcMDRfQ2FuY2VsVGlja2V0Qm9va2luZ1wwNF9DYW5jZWxUaWNrZXRCb29raW5nLnVzcjwvTG9hZERhdGE+DQogIDxGaWxlcz4NCiAgICA8RmlsZT4wNF9DYW5jZWxUaWNrZXRCb29raW5nLnVzcjwvRmlsZT4NCiAgPC9GaWxlcz4NCiAgPE1vZGlmaWVkPjIwMjAtMDktMjJUMjM6MTM6NDAuNDI0Mjk1MiswNTowMDwvTW9kaWZpZWQ+DQo8L1BlcnNpc3RlbmNlVG9rZW4+
 	EndProjectSection
 	ProjectSection(ExpandInVugen) = Data
-		Value = False
+		Value = True
 	EndProjectSection
 EndProject
 Project("74B38D92-3D6E-43C1-AEF2-095539F21308") = "05_TicketPaymentNoView", "..\..\..\..\Users\User\Documents\VuGen\Scripts\05_TicketPaymentNoView\05_TicketPaymentNoView.usr", "74B38D92-3D6E-43C1-AEF2-095539F21308"
@@ -47,7 +47,7 @@ Project("FC837328-C950-429D-81FE-7D5444D61626") = "06_IntroductionToItinerary", 
 		Token = PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8UGVyc2lzdGVuY2VUb2tlbj4NCiAgPExvYWREYXRhPkM6XFVzZXJzXFVzZXJcRG9jdW1lbnRzXFZ1R2VuXFNjcmlwdHNcMDZfSW50cm9kdWN0aW9uVG9JdGluZXJhcnlcMDZfSW50cm9kdWN0aW9uVG9JdGluZXJhcnkudXNyPC9Mb2FkRGF0YT4NCiAgPEZpbGVzPg0KICAgIDxGaWxlPkM6XFVzZXJzXFVzZXJcRG9jdW1lbnRzXFZ1R2VuXFNjcmlwdHNcMDZfSW50cm9kdWN0aW9uVG9JdGluZXJhcnlcMDZfSW50cm9kdWN0aW9uVG9JdGluZXJhcnkudXNyPC9GaWxlPg0KICA8L0ZpbGVzPg0KICA8TW9kaWZpZWQ+MjAyMC0wOS0yM1QxOTozODo0Ny41NDEyODUxKzA1OjAwPC9Nb2RpZmllZD4NCjwvUGVyc2lzdGVuY2VUb2tlbj4_
 	EndProjectSection
 	ProjectSection(ExpandInVugen) = Data
-		Value = False
+		Value = True
 	EndProjectSection
 EndProject
 Project("FB7C6C07-AF5F-498C-B592-1E6B34E5FD7D") = "03_SearchTicketNoPayment", "..\..\..\..\Users\User\Documents\VuGen\Scripts\03_SearchTicketNoPayment\03_SearchTicketNoPayment.usr", "FB7C6C07-AF5F-498C-B592-1E6B34E5FD7D"

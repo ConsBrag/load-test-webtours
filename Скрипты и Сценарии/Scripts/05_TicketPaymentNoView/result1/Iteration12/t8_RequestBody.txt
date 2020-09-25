@@ -1,5 +1,0 @@
-"firstName=Hrapov&lastName=Anempodist&address1=valdosta&address2=acaulose&pass1=Hrapov+Anempodi"
-"st&pass2=Dovzhenko+Maryan&creditCard=5743+6117+6243+3775&expDate=12%2F24&oldCCOption=&numPasse"
-"ngers=2&seatType=Coach&seatPref=Window&outboundFlight=040%3B350%3B09%2F24%2F2020&advanceDiscou"
-"nt=0&returnFlight=760%3B162%3B09%2F30%2F2020&JSFormSubmit=off&buyFlights.x=70&buyFlights.y=11&"
-".cgifields=saveCC"

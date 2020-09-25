@@ -1,5 +1,0 @@
-"firstName=Bulatov&lastName=Agafon&address1=beshadow&address2=bogledom&pass1=Bulatov+Agafon&pas"
-"s2=Offenberg+Ovsey&creditCard=4861+7349+9292+8647&expDate=12%2F24&oldCCOption=&numPassengers=2"
-"&seatType=Business&seatPref=None&outboundFlight=320%3B1121%3B09%2F24%2F2020&advanceDiscount=0&"
-"returnFlight=400%3B350%3B09%2F30%2F2020&JSFormSubmit=off&buyFlights.x=70&buyFlights.y=11&.cgif"
-"ields=saveCC"

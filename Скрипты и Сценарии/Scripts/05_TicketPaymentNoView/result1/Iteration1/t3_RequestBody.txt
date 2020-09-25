@@ -1,2 +1,2 @@
-"userSession=129672.059781288zzHAAAzpfHftAAcApADQtf&username=cracow&password=quebec&login.x=70&"
-"login.y=3&JSFormSubmit=off"
+"userSession=129690.892426083zzHAQHfpcHQVzzzHtAAcfpifVzHf&username=cracow&password=quebec&login"
+".x=70&login.y=3&JSFormSubmit=off"

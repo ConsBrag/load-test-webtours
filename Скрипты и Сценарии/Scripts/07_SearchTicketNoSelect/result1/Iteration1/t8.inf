@@ -10,15 +10,15 @@ FileName10=t3_3_flights.gif
 FileName13=t2_0_hp_logo.png
 FileName12=t2_1_webtours.png
 RequestHeaderFile=t8_RequestHeader.txt
-RawStepStartTime=1600712104296
+RawStepStartTime=1601033728810
 ContentType=text/html
 RawStepName=SignOff Button
 FrameIndex2=0.0
 FrameIndex3=0.1
 ResponseHeaderFile=t8_ResponseHeader.txt
-RawStepEndTime=1600712104765
+RawStepEndTime=1601033729212
 UseFrameIndex=1
-SnapshotXmlFile=snapshot_6.xml
+SnapshotXmlFile=snapshot_5.xml
 Total=13
 URL1=http://localhost:1080/cgi-bin/welcome.pl?signOff=1
 URL2=http://localhost:1080/cgi-bin/nav.pl?in=home

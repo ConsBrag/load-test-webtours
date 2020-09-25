@@ -2695,6 +2695,7 @@ Action()
 		lr_end_transaction("login", 2);
 
 		lr_think_time(21);
+		 
 		
 		lr_start_transaction("viewing_receipt");
 

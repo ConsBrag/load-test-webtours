@@ -1,5 +1,0 @@
-"firstName=Vitviczkiy&lastName=Gerbert&address1=alkylate&address2=altarlet&pass1=Vitviczkiy+Ger"
-"bert&pass2=Yumatov+Evdokim&pass3=Olovennikov+Vseslav&creditCard=5586+9128+8127+9339&expDate=12"
-"%2F24&oldCCOption=&numPassengers=3&seatType=Business&seatPref=Window&outboundFlight=040%3B508%"
-"3B09%2F24%2F2020&advanceDiscount=0&returnFlight=returnFlight&JSFormSubmit=off&buyFlights.x=70&"
-"buyFlights.y=11&.cgifields=saveCC"

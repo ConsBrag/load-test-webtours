@@ -18,6 +18,8 @@
     <FileEntry Name="06_IntroductionToItinerary.c.pickle" Filter="1" />
     <FileEntry Name="06_IntroductionToItinerary.ci" Filter="1" />
     <FileEntry Name="112682932440.idx" Filter="1" />
+    <FileEntry Name="11268293244_2TR.11.idx" Filter="1" />
+    <FileEntry Name="11268293244_a70.79.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -25,8 +27,10 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvUjS.59.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
     <FileEntry Name="output.txt" Filter="1" />
     <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
     <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />

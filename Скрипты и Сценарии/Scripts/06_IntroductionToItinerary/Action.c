@@ -94,6 +94,7 @@ Action()
 		lr_end_transaction("login", LR_AUTO);
 
 		lr_think_time(21);
+		//
 		
 		lr_start_transaction("viewing_receipt");
 

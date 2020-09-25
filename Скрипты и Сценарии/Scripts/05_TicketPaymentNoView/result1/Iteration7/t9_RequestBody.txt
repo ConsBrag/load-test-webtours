@@ -1,5 +1,0 @@
-"firstName=Izmaylov&lastName=Parmen&address1=badgerer&address2=belching&pass1=Izmaylov+Parmen&p"
-"ass2=Belikov+Akila&creditCard=5351+7374+4548+9972&expDate=12%2F24&oldCCOption=&numPassengers=2"
-"&seatType=Coach&seatPref=None&outboundFlight=040%3B350%3B09%2F24%2F2020&advanceDiscount=0&retu"
-"rnFlight=400%3B350%3B09%2F30%2F2020&JSFormSubmit=off&buyFlights.x=70&buyFlights.y=11&.cgifield"
-"s=saveCC"

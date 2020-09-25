@@ -13,7 +13,19 @@
     <FileEntry Name="default.usp" Filter="4" />
     <FileEntry Name="07_SearchTicketNoSelect.prm" Filter="2" />
     <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_07_SearchTicketNoSelect.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="07_SearchTicketNoSelect.c.pickle" Filter="1" />
+    <FileEntry Name="07_SearchTicketNoSelect.ci" Filter="1" />
     <FileEntry Name="07_SearchTicketNoSelect.prm.bak" Filter="1" />
+    <FileEntry Name="106721012440.idx" Filter="1" />
+    <FileEntry Name="123326175440.idx" Filter="1" />
+    <FileEntry Name="163646109440.idx" Filter="1" />
+    <FileEntry Name="227025275440.idx" Filter="1" />
+    <FileEntry Name="245478385440.idx" Filter="1" />
+    <FileEntry Name="259291212440.idx" Filter="1" />
+    <FileEntry Name="29154872440.idx" Filter="1" />
+    <FileEntry Name="96074702440.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -22,6 +34,7 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="login.dat" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvlKj.689.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />

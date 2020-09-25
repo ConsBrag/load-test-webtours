@@ -2672,9 +2672,9 @@ Action()
 				"Text=User password was correct",
 				"LAST");
 			
-			lr_save_string("cracow", "login11");
+			 
 
-			lr_save_string("quebec", "password11");
+			 
 
 			web_submit_data("login.pl",
 				"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -2686,8 +2686,8 @@ Action()
 				"Mode=HTML",
 				"ITEMDATA",
 				"Name=userSession", "Value={userSession}", "ENDITEM",
-				"Name=username", "Value={login11}", "ENDITEM",
-				"Name=password", "Value={password11}", "ENDITEM",
+				"Name=username", "Value={login}", "ENDITEM",
+				"Name=password", "Value={password}", "ENDITEM",
 				"Name=login.x", "Value=70", "ENDITEM",
 				"Name=login.y", "Value=3", "ENDITEM",
 				"Name=JSFormSubmit", "Value=off", "ENDITEM",

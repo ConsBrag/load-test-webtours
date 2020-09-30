@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Los+Angeles&departDate=09%2F24%2F2020&arrive=London&returnDate=09%2F3"
+"0%2F2020&numPassengers=2&seatPref=None&seatType=Business&findFlights.x=63&findFlights.y=12&.cg"
+"ifields=roundtrip&.cgifields=seatType&.cgifields=seatPref"

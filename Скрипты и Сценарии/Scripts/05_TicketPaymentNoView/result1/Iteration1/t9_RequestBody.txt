@@ -1,5 +1,0 @@
-"firstName=Kirilyuk&lastName=Gorislav&address1=melville&address2=sullivan&pass1=Kirilyuk+Gorisl"
-"av&pass2=Kablukov+Sotir&creditCard=5312+8324+6339+6623&expDate=12%2F24&oldCCOption=&numPasseng"
-"ers=2&seatType=Coach&seatPref=None&outboundFlight=900%3B421%3B09%2F26%2F2020&advanceDiscount=0"
-"&returnFlight=090%3B421%3B10%2F02%2F2020&JSFormSubmit=off&buyFlights.x=70&buyFlights.y=11&.cgi"
-"fields=saveCC"

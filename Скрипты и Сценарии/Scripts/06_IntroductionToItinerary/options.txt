@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\User\Documents\VuGen\Scripts\06_IntroductionToItinerary
--IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\user\documents\vugen\scripts\06_introductiontoitinerary\\logfile.log
-c:\users\user\documents\vugen\scripts\06_introductiontoitinerary\\combined_06_IntroductionToItinerary.c
-c:\users\user\documents\vugen\scripts\06_introductiontoitinerary\\pre_cci.c
